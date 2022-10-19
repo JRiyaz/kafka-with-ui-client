@@ -1,0 +1,4 @@
+kafka_connect_data/
+kafka_data/
+zookeeper_data/
+zookeeper_data_logs/
